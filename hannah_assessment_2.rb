@@ -64,7 +64,7 @@ school[:students] = [
 
 
 #Section C.  Technically, this would do the trick, but its not an ideal answer.  
-# Also, can't figure out how this would work with ANY name in the alloted time given. 
+# Also, can't figure out how this would work with ANY name. 
 school[:students] = [ 
     {:name => "Marissa", :grade => "B"},
     {:name => "Frank", :grade => "A"},
